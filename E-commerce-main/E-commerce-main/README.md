@@ -11,8 +11,6 @@ This is a solution to the [MongoDB Atlas Hackathon on DEV!](https://dev.to/devte
 - [Others](#others)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Links](#links)
-- [Author](#author)
 
 ## MongoDB Atlas Search Features
 
@@ -159,15 +157,3 @@ router.get("/searchmail", async (req, res) => {
 ### Useful resources
 
 - [MongoDB Atlas search docs](https://docs.atlas.mongodb.com/) - This helped me implement the atlas searches. I really liked the search pattern and will use it going forward.
-
-## Links
-
-- Github URL: [E-commerce](https://github.com/Ernest2026/E-commerce)
-- Live Site URL: [E-commerce](http://mdbh.herokuapp.com)
-
-## Author
-
-- Github Profile: [@Ernesto](https://github.com/Ernest2026)
-- Dev - [@Ernesto](https://dev.to/ernest2026)
-- Twitter - [@Ernesto](https://www.twitter.com/Ernesto_tech)
-- LinkedIn - [@Ernesto](https://www.linkedin.com/m/in/chidiebere-ernest-1078321ba)
